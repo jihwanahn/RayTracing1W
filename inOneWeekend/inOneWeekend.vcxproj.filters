@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Output an Image.cpp">
+    <ClCompile Include="inOneWeekend.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a63325f6-6c4c-478d-a57f-e023c1d7b876}</ProjectGuid>
-    <RootNamespace>OutputanImage</RootNamespace>
+    <ProjectGuid>{3fb429fe-41b3-4df3-ba07-aa7e66cced7e}</ProjectGuid>
+    <RootNamespace>inOneWeekend</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Output an Image.cpp" />
+    <ClCompile Include="inOneWeekend.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
